@@ -185,6 +185,8 @@ $$\boxed{\ \text{PE} = \frac{\text{PB}}{\text{ROE}}\ } \qquad \Longleftrightarro
 
 三个指标里**只有两个是独立的**。知道任意两个，第三个自动确定。
 
+> ROE 本身怎么算、由什么驱动、为什么会骗人，见 [`05-ROE详解.md`](./05-ROE详解.md)（含杜邦分解）。
+
 ### 3.2 一张表看懂「同样 PB，PE 差多少」
 
 | PB | ROE | 隐含 PE | 典型行业 |
