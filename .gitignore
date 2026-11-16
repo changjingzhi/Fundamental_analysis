@@ -1,0 +1,23 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# --- Office 临时文件 ---
+~$*
+*.tmp
+
+# --- 系统/编辑器 ---
+.DS_Store
+Thumbs.db
+.vscode/*
+!.vscode/settings.json
+!.vscode/extensions.json
+
+# --- 数据缓存（原始大数据不入库） ---
+cache/
+raw/
+*.parquet
+*.db
