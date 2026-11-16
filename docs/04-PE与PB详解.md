@@ -52,7 +52,7 @@ $$E/P = \frac{1}{\text{PE}}$$
 
 ✅ **成长股（配合 PEG）**
 
-$$\text{PEG} = \frac{\text{PE}}{\text{净利润增速（%）}}$$
+$$\text{PEG} = \frac{\text{PE}}{\text{净利润增速}(\%)}$$
 
 > 📘 假设 A 公司 PE = 30，增速 30% → PEG = 1.0
 > B 公司 PE = 15，增速 8% → PEG = 1.88
